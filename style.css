@@ -1,0 +1,65 @@
+*{
+border:solid;
+}
+
+.header{
+    background-image: url(wood.jpg);
+}
+
+.content{
+    background-image: url(school.jpg);
+    font-style: bold;
+    display:flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+ 
+}
+
+.info{
+     background-color: #e0877d;
+     display:flex;
+     justify-content:space-between;
+     
+   
+}
+
+.site{
+    background-color:#DD8E17;
+    display:flex;
+    justify-content:flex-start;
+    align-items: initial;
+}
+
+.end{
+    display:flex;
+    justify-content:flex-start;
+    align-items: initial;
+}
+
+.content p{
+color: gold;
+}
+
+.event{
+    background-color: gold;
+}
+
+.head{
+  
+    display: flex;
+    justify-content: space-around;
+    border:dotted;
+   
+}
+
+
+
+
+
+a:link{
+    color:red;
+}
+
+a:visited{
+    color: blue;
+}
